@@ -1,0 +1,4 @@
+cmake_minimum_required(VERISON 3.4)
+project(pybind_vid)
+adds_subdirectory(pybind11)
+pybind11_add_module(module_name main.cpp)
