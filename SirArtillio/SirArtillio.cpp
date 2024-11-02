@@ -1,8 +1,11 @@
 #include "Libraries.h"
+
 //| === Callback To Go Back To Menu === |
 int main();
 //| === Callback To Go Back To Menu === |
+
 #include "welcomemenu.h"
+
 // -------------------------------------------> Headers <-------------------------------------------
 #include "LibraryHeaders.h"
 // -------------------------------------------> Headers <-------------------------------------------
@@ -108,7 +111,7 @@ int main() {
             }
             case 'O': {
                 DES des;
-                des.input();
+                des.menu();
                 running = false;
                 break;
             }
@@ -143,6 +146,32 @@ int main() {
                 break;
             }
             case 'U':{
+                kruvskal kruvs;
+                kruvs.run();
+                running = false;
+                break;
+            }
+            case 'V': {
+                Prim prim;
+                prim.run();
+                running = false;
+                break;
+            }
+            case 'W':{
+                Boruvka boruvska;
+                boruvska.run();
+                running = false;
+                break;
+            }
+            case 'X':{
+                Dijikstra dijikistra;
+                dijikistra.run();
+                running = false;
+                break;
+            }
+            case 'Y':{
+                Dial dial;
+                dial.run();
                 running = false;
                 break;
             }

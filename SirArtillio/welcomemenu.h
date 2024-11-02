@@ -35,6 +35,11 @@ void welcome_menu(){
         cout << "\nR.) Knapsack\n";
         cout << "\nS.) Mice and Holes\n";
         cout << "\nT.) Huffman Coding\n";
+        cout << "\nU.) Kruskal MST\n";
+        cout << "\nV.) Prim's MST\n";
+        cout << "\nW.) Boruvska's MST\n";
+        cout << "\nX.) Dijikistra's MST\n";
+        cout << "\nY.) Dial's MST\n";
         cout << "\nZ.) Quit Program\n";
         cout << "\n\nChoose - ";
 }
