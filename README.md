@@ -16,6 +16,6 @@ into the same directory file as your main (Which is Algorithm)
 * Type main in your cmd and it will run
 
 
--> THIS IS PURELY FOR PASSING THE COMPUTER SCIENCE COURSE AND IN NEED OF ASSISTANCE <-
+-> THIS IS PURELY FOR PASSING THE COMPUTER SCIENCE COURSE AND FOR STUDENTS THAT ARE IN NEED OF ASSISTANCE <-
 
 
