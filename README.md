@@ -9,12 +9,12 @@ HOW TO RUN THE PROGRAM?
 
 -> INSTRUCTIONS IF USING SUBLIME OR HAVING TROUBLE OPENING <-  
 
-USE CMD WHEN USING THE PROGRAM (Must be in the same file directory.
+USE CMD WHEN USING THE PROGRAM (Must be in the same file directory).
 
 Copy Paste 
 * g++ main.cpp -o main -IC:/Users/Administrator/AppData/Local/Programs/Python/Python313/include -LC:/Users/Administrator/AppData/Local/Programs/Python/Python313/libs -lpython313
 into the same directory file as your main (Which is Algorithm).
-* Type main in your cmd and it will run.
+* Type main in your cmd and it will run (Remember if you're going to use the MST, you must download the Libraries Below).
 
 WHAT LANGUAGES ARE IN IT?
 * It mainly uses c++, python and headers for c++.
